@@ -6,7 +6,7 @@
 [Haptics Device with chai3d game](/sample_page)
 <p float="left">
   <img src="images/FYP1.png?raw=true" width="220" />
-  <img src="images/FYP2.png?raw=true" width="220" /> 
+  <img src="images/FYP2.jpg?raw=true" width="220" /> 
 </p>
 <p float="left">
   <img src="images/tiltboard.png?raw=true" width="220" />
