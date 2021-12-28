@@ -19,5 +19,3 @@ I need to develop a game to act as the role of task for the subject to play. The
 ### 5. Reinforcement Learning 
 
 This is an optional section for the project, to investigate the performance of AI in the same game.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

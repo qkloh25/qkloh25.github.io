@@ -16,9 +16,8 @@
 ---
 
 [EEG analysis to detect child epilepsy](/vitroxeeg)
+
 <img src="images/EEG.png?raw=true" /> 
-
-
 
 ---
 
@@ -86,9 +85,11 @@ A database project, to host a CD shop named sakila online. Mainly using php to f
 
 #### 2020
 
+[Nuclei Detection](https://github.com/qkloh25/NucleiDetection){:target="_blank"}
+
 In this project, I used matlab's library of image processing to process the nuclei image and capture the nuclei.
 
-[Nuclei Detection](https://github.com/qkloh25/NucleiDetection){:target="_blank"}
+
 
 <p float="left">
   <img src="images/nuclei4.jpg?raw=true" width="220" />
