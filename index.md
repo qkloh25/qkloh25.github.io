@@ -18,11 +18,25 @@
 #### 2020
 
 [EEG analysis to detect child epilepsy](/vitroxeeg)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<p float="left">
+  <img src="images/FYP1.png?raw=true" width="220" />
+  <img src="images/FYP2.jpg?raw=true" width="220" /> 
+</p>
+<p float="left">
+  <img src="images/tiltboard.png?raw=true" width="220" />
+  <img src="images/ball_motion2.png?raw=true" width="220" /> 
+</p>
 
 ---
 [Shopee Data Science Challenge](/shopeechallenge)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<p float="left">
+  <img src="images/FYP1.png?raw=true" width="220" />
+  <img src="images/FYP2.jpg?raw=true" width="220" /> 
+</p>
+<p float="left">
+  <img src="images/tiltboard.png?raw=true" width="220" />
+  <img src="images/ball_motion2.png?raw=true" width="220" /> 
+</p>
 
 ---
 
