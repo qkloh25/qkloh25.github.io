@@ -9,8 +9,8 @@
   <img src="images/FYP2.png?raw=true" width="220" /> 
 </p>
 <p float="left">
-  <img src="images/tileboard.png?raw=true" width="220" />
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" /> 
+  <img src="images/tiltboard.png?raw=true" width="220" />
+  <img src="images/ball_motion2.png?raw=true" width="220" /> 
 </p>
 
 ---
