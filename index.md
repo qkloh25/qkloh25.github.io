@@ -34,7 +34,7 @@ The latest on the top to earlier project.
 
 #### 2021
 
-[Gazebo Robot to Navigate using ROS](/robotics)
+[Gazebo Robot to Navigate using ROS](/ARSrobotics)
 
 <p float="left">
   <img src="images/dummy_thumbnail.jpg?raw=true" width="250" />
