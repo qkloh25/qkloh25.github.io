@@ -9,9 +9,14 @@ The latest on the top to earlier project.
 [Haptics Device with chai3d game](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <p float="left">
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="100" />
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="100" /> 
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="100" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="200" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="200" /> 
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="200" />
+</p>
+<p float="left">
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="200" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="200" /> 
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="200" />
 </p>
 
 ---
