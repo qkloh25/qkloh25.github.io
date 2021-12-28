@@ -1,32 +1,50 @@
 ## Portfolio
+
 The latest on the top to earlier project.
 ---
 
 ### Machine Learning 
 
+#### 2021
 [Haptics Device with chai3d game](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<p float="left">
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="100" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="100" /> 
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="100" />
+</p>
 
 ---
-[EEG analysis to detect child epilepsy](/pdf/sample_presentation.pdf)
+
+#### 2020
+
+[EEG analysis to detect child epilepsy](/vitroxeeg)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Shopee Data Science Challenge](http://example.com/)
+[Shopee Data Science Challenge](/shopeechallenge)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Software Engineering
 
-- [Ad-Hoc Network For Collaboration Among Mobile Devices](http://example.com/)
-- [Jumper Frog Game](http://example.com/)
+#### 2021
+
+- [Gazebo Robot to Navigate using ROS](/robotics)
+
+#### 2020
+
+- [Ad-Hoc Network For Collaboration Among Mobile Devices](/SEGP_bluetooth)
+- [Jumper Frog Game](/jumperfrog)
 
 ---
 ### Image Processing
-- [Nuclei Detection](http://example.com/)
 
----
+#### 2020
+
+- [Nuclei Detection](/nucleidetection)
+
 
 
 
