@@ -1,29 +1,29 @@
 ## Portfolio
-
+The latest on the top to earlier project.
 ---
 
-### Category Name 1 
+### Machine Learning 
 
-[Project 1 Title](/sample_page)
+[Haptics Device with chai3d game](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[EEG analysis to detect child epilepsy](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Shopee Data Science Challenge](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Software Engineering
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Ad-Hoc Network For Collaboration Among Mobile Devices](http://example.com/)
+- [Jumper Frog Game](http://example.com/)
+---
+### Image Processing
+- [Nuclei Detection](http://example.com/)
 
 ---
 
