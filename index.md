@@ -48,7 +48,7 @@
 
 #### 2020
 
-[Ad-Hoc Network For Collaboration Among Mobile Devices](https://github.com/Group-10b-SE-GP/BlueKa){:target="_blank"}
+Ad-Hoc Network For Collaboration Among Mobile Devices
 
 This is a group project, I am in the position of handling the bluetooth connection between multiple android mobile phone.
 <p float="left">
@@ -56,9 +56,11 @@ This is a group project, I am in the position of handling the bluetooth connecti
   <img src="images/SEGP2.jpg?raw=true" width="220" /> 
 </p>
 
+- [GitHub](https://github.com/Group-10b-SE-GP/BlueKa){:target="_blank"}
+
 ---
 
-[Jumper Frog Game](https://github.com/qkloh25/COMP2042_CW_lohqiankai){:target="_blank"}
+Jumper Frog Game
 
 A mini game developed using JavaFX. The main theme of the assigment is to improve the game from a corrupted version.
 
@@ -71,21 +73,26 @@ A mini game developed using JavaFX. The main theme of the assigment is to improv
   <img src="images/frog4.png?raw=true" width="220" /> 
 </p>
 
+- [GitHub](https://github.com/qkloh25/COMP2042_CW_lohqiankai){:target="_blank"}
+
 ---
 
-[CD Shop Web Server](https://github.com/qkloh25/mikeCD){:target="_blank"}
+CD Shop Web Server
 
 A database project, to host a CD shop named sakila online. Mainly using php to fetch data in the SQL database. 
 
 <img src="images/sakila.png?raw=true"/>
 
-- [video](https://www.youtube.com/watch?v=BLTIgLqDCrA&t)
+- [GitHub](https://github.com/qkloh25/mikeCD){:target="_blank"}
+- [video](https://www.youtube.com/watch?v=BLTIgLqDCrA&t){:target="_blank"}
+
+---
 
 ### Image Processing
 
 #### 2020
 
-[Nuclei Detection](https://github.com/qkloh25/NucleiDetection){:target="_blank"}
+Nuclei Detection
 
 In this project, I used matlab's library of image processing to process the nuclei image and capture the nuclei.
 
@@ -100,7 +107,8 @@ In this project, I used matlab's library of image processing to process the nucl
   <img src="images/nuclei3.png?raw=true" width="220" /> 
 </p>
 
-- [video](https://www.youtube.com/watch?v=EtSChgfnfZw)
+- [GitHub](https://github.com/qkloh25/NucleiDetection){:target="_blank"}
+- [video](https://www.youtube.com/watch?v=EtSChgfnfZw){:target="_blank"}
 
 
 ---

@@ -8,14 +8,13 @@ EDA is the electricity activity on human skin. There are studies showed that ski
 
 ### 2. Shared-Control Mechanism
 
-How much control should be given to the robot? What is the evaluation of a shared-control mechanism? Is shared-control superior than full human control or full robot control? This is the questions I am tackling.
+How much control should be given to the robot? What is the evaluation of a shared-control mechanism? Is shared-control superior than full human control or full robot control? These are the questions I am tackling with.
 
 ### 3. Haptics Device
-There are many aspect to implement the shared-control. In this project, we study the aspect of haptics device where the subject can feel the assistance from robot by touching, and the robot can know information from human control and their skin conductance level.
+There are many aspect to implement the shared-control. In this project, we study in the aspect of haptics device where the subject can feel the assistance from robot by touch, and the robot can know information from human's applied force and their skin conductance level.
 
 ### 4. Game Development
-I need to develop a game to act as the role of task for the subject to play. The game have to have different level of difficulty.
+I need to develop a game to act as the task. The game needed to has different level of difficulty. The player should feel the dynamics of the game play and the assitance of robot.
 
 ### 5. Reinforcement Learning 
-
-This is an optional section for the project, to investigate the performance of AI in the same game.
+This is an optional section for the project, to investigate the performance of AI in the same task.
