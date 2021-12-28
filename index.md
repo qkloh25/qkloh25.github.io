@@ -3,7 +3,7 @@
 ### Machine Learning 
 
 #### 2021
-[Variable Autonomy Robotic Guidance Based on Human Stress Levels Indicated by Physiological Signals](/FYP)
+#### [Variable Autonomy Robotic Guidance Based on Human Stress Levels Indicated by Physiological Signals](/FYP)
 <p float="left">
   <img src="images/FYP1.png?raw=true" width="220" />
   <img src="images/FYP2.jpg?raw=true" width="220" /> 
@@ -15,14 +15,14 @@
 
 ---
 
-[EEG analysis to detect child epilepsy](/vitroxeeg)
+#### [EEG analysis to detect child epilepsy](/vitroxeeg)
 
 <img src="images/EEG.png?raw=true" /> 
 
 ---
 
 #### 2020
-[Shopee Code League 2020](/shopeechallenge)
+#### [Shopee Code League 2020](/shopeechallenge)
 
 <img src="images/shopeelogo.jpg?raw=true"/> 
 Some examples of the data.
@@ -34,7 +34,7 @@ Some examples of the data.
 
 #### 2021
 
-[Gazebo Robot to Navigate using ROS](/ARSrobotics)
+#### [Gazebo Robot to Navigate using ROS](/ARSrobotics)
 
 <p float="left">
   <img src="images/ARSrobotics2.png?raw=true" width="220" />
