@@ -1,31 +1,23 @@
 ## Variable Autonomy Robotic Guidance Based on Human Stress Levels Indicated by Physiological Signals
 
-**Project description:** This is an on-going final-year project about human-robot interaction.
+**Project description:** This is an on-going final-year project about human-robot interaction.The aim of the project is to find a good agreement in shared-control between human and robot decision maker by investigating the possibility of using physiological signals to improve the overall performance of shared-control.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Predict cognitive load level using Electrodermal Activity (EDA)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+EDA is the electricity activity on human skin. There are studies showed that skin conductance level have noticeable change when the subject were facing difficult task. This project aim to extract this correlation and used this information to predict cognitive load level to have better robotics assistance to the subject.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 2. Shared-Control Mechanism
 
-### 2. Assess assumptions on which statistical inference will be based
+How much control should be given to the robot? What is the evaluation of a shared-control mechanism? Is shared-control superior than full human control or full robot control? This is the questions I am tackling.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 3. Haptics Device
+There are many aspect to implement the shared-control. In this project, we study the aspect of haptics device where the subject can feel the assistance from robot by touching, and the robot can know information from human control and their skin conductance level.
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 4. Game Development
+I need to develop a game to act as the role of task for the subject to play. The game have to have different level of difficulty.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### 5. Reinforcement Learning 
 
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+This is an optional section for the project, to investigate the performance of AI in the same game.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
