@@ -4,13 +4,12 @@
 
 #### 2021
 [Haptics Device with chai3d game](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 <p float="left">
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" />
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" /> 
+  <img src="images/FYP1.png?raw=true" width="220" />
+  <img src="images/FYP2.png?raw=true" width="220" /> 
 </p>
 <p float="left">
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" />
+  <img src="images/tileboard.png?raw=true" width="220" />
   <img src="images/dummy_thumbnail.jpg?raw=true" width="220" /> 
 </p>
 
