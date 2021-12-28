@@ -22,9 +22,10 @@
 ---
 
 #### 2020
-[Shopee Data Science Challenge](/shopeechallenge)
+[Shopee Code League 2020](/shopeechallenge)
 
 <img src="images/shopeelogo.jpg?raw=true"/> 
+Some examples of the data.
 <img src="images/shopee.png?raw=true" />
 
 ---
