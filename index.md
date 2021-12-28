@@ -3,7 +3,7 @@
 ### Machine Learning 
 
 #### 2021
-[Haptics Device with chai3d game](/FYP)
+[Variable Autonomy Robotic Guidance Based on Human Stress Levels Indicated by Physiological Signals](/FYP)
 <p float="left">
   <img src="images/FYP1.png?raw=true" width="220" />
   <img src="images/FYP2.jpg?raw=true" width="220" /> 
@@ -42,14 +42,16 @@
 </p>
 <p float="left">
   <img src="images/ARSrobotics3.jpg?raw=true" width="220" />
-  <img src="images/ARSrobotics4.jpg?raw=true" width="220" /> 
+  <img src="images/ARSrobotics4.png?raw=true" width="220" /> 
 </p>
 
 ---
 
 #### 2020
 
-[Ad-Hoc Network For Collaboration Among Mobile Devices](https://github.com/Group-10b-SE-GP/BlueKa)
+[Ad-Hoc Network For Collaboration Among Mobile Devices](https://github.com/Group-10b-SE-GP/BlueKa){:target="_blank"}
+
+This is a group project, I am in the position of handling the bluetooth connection between multiple android mobile phone.
 <p float="left">
   <img src="images/SEGP1.jpg?raw=true" width="220" />
   <img src="images/SEGP2.jpg?raw=true" width="220" /> 
@@ -57,7 +59,10 @@
 
 ---
 
-[Jumper Frog Game](https://github.com/qkloh25/COMP2042_CW_lohqiankai)
+[Jumper Frog Game](https://github.com/qkloh25/COMP2042_CW_lohqiankai){:target="_blank"}
+
+A mini game developed using JavaFX. The main theme of the assigment is to improve the game from a corrupted version.
+
 <p float="left">
   <img src="images/frog1.png?raw=true" width="220" />
   <img src="images/frog2.png?raw=true" width="220" /> 
@@ -69,7 +74,10 @@
 
 ---
 
-[CD Shop Web Server](https://github.com/qkloh25/mikeCD)
+[CD Shop Web Server](https://github.com/qkloh25/mikeCD){:target="_blank"}
+
+A database project, to host a CD shop named sakila online. Mainly using php to fetch data in the SQL database. 
+
 <img src="images/sakila.png?raw=true"/>
 
 - [video](https://www.youtube.com/watch?v=BLTIgLqDCrA&t)
@@ -78,7 +86,9 @@
 
 #### 2020
 
-[Nuclei Detection](https://github.com/qkloh25/NucleiDetection)
+In this project, I used matlab's library of image processing to process the nuclei image and capture the nuclei.
+
+[Nuclei Detection](https://github.com/qkloh25/NucleiDetection){:target="_blank"}
 
 <p float="left">
   <img src="images/nuclei4.jpg?raw=true" width="220" />
@@ -89,6 +99,7 @@
   <img src="images/nuclei3.png?raw=true" width="220" /> 
 </p>
 
+- [video](https://www.youtube.com/watch?v=EtSChgfnfZw)
 
 
 ---

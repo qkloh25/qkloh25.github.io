@@ -1,6 +1,6 @@
 ## Variable Autonomy Robotic Guidance Based on Human Stress Levels Indicated by Physiological Signals
 
-**Project description:** This is an on-going project to study human-robot interaction.
+**Project description:** This is an on-going final-year project about human-robot interaction.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
