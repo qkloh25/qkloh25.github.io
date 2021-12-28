@@ -1,8 +1,5 @@
 ## Portfolio
 
-The latest on the top to earlier project.
----
-
 ### Machine Learning 
 
 #### 2021
