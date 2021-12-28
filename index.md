@@ -3,7 +3,7 @@
 ### Machine Learning 
 
 #### 2021
-[Haptics Device with chai3d game](/sample_page)
+[Haptics Device with chai3d game](/FYP)
 <p float="left">
   <img src="images/FYP1.png?raw=true" width="220" />
   <img src="images/FYP2.jpg?raw=true" width="220" /> 
@@ -70,7 +70,9 @@
 ---
 
 [CD Shop Web Server](https://github.com/qkloh25/mikeCD)
-- [video](https://www.youtube.com/watch?v=BLTIgLqDCrA&t=471s)
+<img src="images/sakila.png?raw=true"/>
+
+- [video](https://www.youtube.com/watch?v=BLTIgLqDCrA&t)
 
 ### Image Processing
 
