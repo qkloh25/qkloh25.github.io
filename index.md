@@ -48,7 +48,7 @@
 
 #### 2020
 
-Ad-Hoc Network For Collaboration Among Mobile Devices
+#### Ad-Hoc Network For Collaboration Among Mobile Devices
 
 This is a group project, I am in the position of handling the bluetooth connection between multiple android mobile phone.
 <p float="left">
@@ -60,7 +60,7 @@ This is a group project, I am in the position of handling the bluetooth connecti
 
 ---
 
-Jumper Frog Game
+#### Jumper Frog Game
 
 A mini game developed using JavaFX. The main theme of the assigment is to improve the game from a corrupted version.
 
@@ -77,7 +77,7 @@ A mini game developed using JavaFX. The main theme of the assigment is to improv
 
 ---
 
-CD Shop Web Server
+#### CD Shop Web Server
 
 A database project, to host a CD shop named sakila online. Mainly using php to fetch data in the SQL database. 
 
@@ -92,7 +92,7 @@ A database project, to host a CD shop named sakila online. Mainly using php to f
 
 #### 2020
 
-Nuclei Detection
+#### Nuclei Detection
 
 In this project, I used matlab's library of image processing to process the nuclei image and capture the nuclei.
 
