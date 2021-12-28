@@ -6,12 +6,12 @@
 [Haptics Device with chai3d game](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <p float="left">
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" />
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" /> 
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" /> 
 </p>
 <p float="left">
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" />
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" /> 
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" /> 
 </p>
 
 ---
@@ -34,12 +34,12 @@
 [Gazebo Robot to Navigate using ROS](/ARSrobotics)
 
 <p float="left">
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" />
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" /> 
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" /> 
 </p>
 <p float="left">
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" />
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" /> 
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" /> 
 </p>
 
 ---
@@ -48,24 +48,24 @@
 
 [Ad-Hoc Network For Collaboration Among Mobile Devices](/SEGP_bluetooth)
 <p float="left">
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" />
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" /> 
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" /> 
 </p>
 <p float="left">
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" />
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" /> 
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" /> 
 </p>
 
 ---
 
 [Jumper Frog Game](/jumperfrog)
 <p float="left">
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" />
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" /> 
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" /> 
 </p>
 <p float="left">
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" />
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" /> 
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" /> 
 </p>
 
 ### Image Processing
@@ -75,12 +75,12 @@
 [Nuclei Detection](/nucleidetection)
 
 <p float="left">
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" />
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" /> 
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" /> 
 </p>
 <p float="left">
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" />
-  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" /> 
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="220" /> 
 </p>
 
 
