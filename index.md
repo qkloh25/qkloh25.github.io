@@ -45,7 +45,7 @@
 
 #### 2020
 
-[Ad-Hoc Network For Collaboration Among Mobile Devices](/SEGP_bluetooth)
+[Ad-Hoc Network For Collaboration Among Mobile Devices](https://github.com/Group-10b-SE-GP/BlueKa)
 <p float="left">
   <img src="images/dummy_thumbnail.jpg?raw=true" width="220" />
   <img src="images/dummy_thumbnail.jpg?raw=true" width="220" /> 
@@ -57,7 +57,7 @@
 
 ---
 
-[Jumper Frog Game](/jumperfrog)
+[Jumper Frog Game](https://github.com/qkloh25/COMP2042_CW_lohqiankai)
 <p float="left">
   <img src="images/dummy_thumbnail.jpg?raw=true" width="220" />
   <img src="images/dummy_thumbnail.jpg?raw=true" width="220" /> 
@@ -71,7 +71,7 @@
 
 #### 2020
 
-[Nuclei Detection](/nucleidetection)
+[Nuclei Detection](https://github.com/qkloh25/NucleiDetection)
 
 <p float="left">
   <img src="images/dummy_thumbnail.jpg?raw=true" width="220" />
