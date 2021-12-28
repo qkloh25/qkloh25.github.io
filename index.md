@@ -34,21 +34,57 @@ The latest on the top to earlier project.
 
 #### 2021
 
-- [Gazebo Robot to Navigate using ROS](/robotics)
+[Gazebo Robot to Navigate using ROS](/robotics)
+
+<p float="left">
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" /> 
+</p>
+<p float="left">
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" /> 
+</p>
+
+---
 
 #### 2020
 
-- [Ad-Hoc Network For Collaboration Among Mobile Devices](/SEGP_bluetooth)
-- [Jumper Frog Game](/jumperfrog)
+[Ad-Hoc Network For Collaboration Among Mobile Devices](/SEGP_bluetooth)
+<p float="left">
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" /> 
+</p>
+<p float="left">
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" /> 
+</p>
 
 ---
+
+[Jumper Frog Game](/jumperfrog)
+<p float="left">
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" /> 
+</p>
+<p float="left">
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" /> 
+</p>
+
 ### Image Processing
 
 #### 2020
 
-- [Nuclei Detection](/nucleidetection)
+[Nuclei Detection](/nucleidetection)
 
-
+<p float="left">
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" /> 
+</p>
+<p float="left">
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" />
+  <img src="images/dummy_thumbnail.jpg?raw=true" width="250" /> 
+</p>
 
 
 
